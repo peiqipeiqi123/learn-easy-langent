@@ -1,0 +1,25 @@
+# === 密钥文件（绝对不可提交）===
+.env
+
+# === 虚拟环境 ===
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === uv ===
+uv.lock
+
+# === 运行时生成文件 ===
+*.txt
+!requirements.txt
+!README.md
