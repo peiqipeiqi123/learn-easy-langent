@@ -23,3 +23,7 @@ uv.lock
 *.txt
 !requirements.txt
 !README.md
+
+# === 大文件（需自行下载/构建）===
+models/
+faiss_db/
