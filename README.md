@@ -9,6 +9,7 @@
 - 第一章：LangGraph 基础入门 ✅
 - 第二章：ChatOpenAI / PromptTemplate / FewShotPrompt / OutputParser ✅
 - 第三章：Memory + Tool + 综合实践 ✅
+- 第四章：RAG + 综合实践✅
 
 ## 免责声明
 
