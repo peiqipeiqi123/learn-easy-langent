@@ -35,3 +35,10 @@ faiss_sessions/
 .agents/
 skills-lock.json
 __pycache__/
+
+# === 会话 & 技能 ===
+.sessions/
+.session/
+.agents/
+skills-lock.json
+faiss_sessions/
