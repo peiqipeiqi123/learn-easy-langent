@@ -6,7 +6,7 @@
 
 ## 学习进度
 
-- 第一章：LangGraph 基础入门 ✅
+- 第一章：Langchain 基础入门 ✅
 - 第二章：ChatOpenAI / PromptTemplate / FewShotPrompt / OutputParser ✅
 - 第三章：Memory + Tool + 综合实践（Web Query Bot） ✅
 - 第四章：链式工作流 + 路由链 + RAG 全流程 ✅
