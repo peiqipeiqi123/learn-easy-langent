@@ -27,3 +27,11 @@ uv.lock
 # === 大文件（需自行下载/构建）===
 models/
 faiss_db/
+faiss_sessions/
+
+# === 会话 & 技能（本地生成）===
+.sessions/
+.session/
+.agents/
+skills-lock.json
+__pycache__/
