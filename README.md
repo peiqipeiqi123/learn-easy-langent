@@ -10,7 +10,7 @@
 - 第二章：ChatOpenAI / PromptTemplate / FewShotPrompt / OutputParser ✅
 - 第三章：Memory + Tool + 综合实践（Web Query Bot） ✅
 - 第四章：链式工作流 + 路由链 + RAG 全流程 ✅
-- 第五章：学习助手 Agent — 10 Tool + 分层记忆 + 多会话 + 流式输出 ✅
+- 第五章：课程中期综合实践 — 学习助手 Agent ✅
 
 ## 免责声明
 
