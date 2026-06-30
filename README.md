@@ -11,6 +11,7 @@
 - 第三章：Memory + Tool + 综合实践（Web Query Bot） ✅
 - 第四章：链式工作流 + 路由链 + RAG 全流程 ✅
 - 第五章：课程中期综合实践 — 学习助手 Agent ✅
+- 第六章：LangGraph 基础 — State / Node / Edge / 循环与分支工作流 ✅
 
 ## 免责声明
 
